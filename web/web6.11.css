@@ -1,0 +1,280 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,li,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.top{
+	height: 30px;
+	background-color: rgb(244,244,244);
+}
+.topp{
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+}
+.p1{
+	float: left;
+    line-height: 30px;
+}
+.p2{
+	float: right;
+	line-height: 30px;
+}
+.topp a{
+	color: black;
+}
+.head{
+	height: 160px;
+	border-bottom: 2px solid rgb(224, 3, 4)
+}
+.headd{
+	width: 1200px;
+	height: 115px;
+	margin: 0 auto;
+}
+.d1{
+	width: 220px;
+	height: 115px;
+	float: left;
+	text-align: center;
+}
+.d2{
+	height: 115px;
+	float: left;
+	text-align: center;
+	line-height: 115px;
+	position: relative;
+	width: 800px;
+}
+.dd2{
+	width: 500px;
+	height: 44px;
+	position: absolute;
+}
+.i1{
+	width: 400px;
+	height: 40px;
+	border:2px solid rgb(248,56,56); 
+	color: rgb(192,192,192);
+	float: left;
+	margin-top: 40px;
+	margin-left: 150px;
+}
+.i2{
+	width: 90px;
+	height: 44px;
+	background-color: rgb(248,56,56);
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	margin-top: 40px;
+	border:2px solid red;
+	color: white;
+	font-size: 17px;
+}
+.d3{
+	width: 150px;
+	height: 40px;
+	float: left;
+	text-align: center;
+	line-height: 40px;
+	background:rgb(245,245,245) url('../imags/che.png') no-repeat 20px;
+	border:1px solid rgb(217,217,217);
+	margin-top: 40px;
+}
+.d3 span{
+	color: red;
+}
+.headf{
+	width: 1200px;
+	height: 50px;
+	margin:0 auto;
+}
+.headf ul{
+	float: left;
+}
+.headf a{
+	display: block;
+	width: 90px;
+	height: 40px;
+	color: black;
+	text-align: center;
+	line-height: 40px;
+	margin-right: 40px;
+	font-size: 20px;
+}
+.headf li{
+	display: inline-block;
+	border-radius: 10px;
+}
+.headf a:hover{
+	background-color: rgb(253,3,4);
+	color: white;
+	border-radius: 10px;
+}
+.mid{
+	height: 650px;
+	background-color: rgb(251,251,251);
+}
+.midd{
+	width: 1200px;
+	height: 650px;
+	margin:0 auto;
+}
+.m1{
+	height: 60px;
+	width: 200px;
+	text-align: center;
+	line-height: 60px;
+}
+.m1 a{
+	color: rgb(0, 0, 0);
+}
+.m2{
+	height: 590px;
+	width: 1200px;
+	position: relative;
+}
+.l1{
+	width: 215px;
+	height: 43px;
+	background:rgb(255,255,255) url('../imags/fenlei.png') no-repeat 30px;
+	text-align: center;
+	line-height: 43px;
+}
+.l2{
+	width: 215px;
+	height: 500px;
+	background-color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+.l2 a{
+	color: black;
+}
+.l3{
+	width: 975px;
+	height: 553px;
+	background-color: white;
+	position: absolute;
+	top: 0%;
+	right: 0%;
+}
+.l3 li{
+	float: left;
+	border:2px solid rgb(219,219,219);
+	width: 218px;
+	height: 250px;
+	margin-left: 18px;
+	margin-top: 18px;
+	text-align: center;
+}
+.coloro{
+	color:rgb(255,58,39);
+}
+.colorr{
+	color:rgb(163,163,163);
+}
+.down{
+	height: 255px;
+	background-color: rgb(46,46,46);
+}
+.n1{
+	width: 1200px;
+	height: 150px;
+	border-bottom: 2px solid rgb(69,69,69);
+	margin: 0 auto;
+}
+.aa{
+	width: 240px;
+	height: 130px;
+	float: left;
+}
+.aa a{
+	width: 90px;
+	height: 32px;
+	text-align: center;
+	line-height: 32px;
+	font-size: 15px;
+	color: white;
+}
+.aaa{
+	font-size: 17px;
+}
+.bbb{
+	font-size:15px;
+}
+.bb{
+	width: 240px;
+	height: 130px;
+	float: left;
+	/* margin-left: 10px; */
+}
+.bb a{
+	width: 90px;
+	height: 32px;
+	/* text-align: center; */
+	line-height: 32px;
+	font-size: 15px;
+	color: white;
+}
+.cc{
+	width: 240px;
+	height: 130px;
+	float: left;
+	/* margin-left: 10px; */
+}
+.cc a{
+	width: 90px;
+	height: 32px;
+	/* text-align: center; */
+	line-height: 32px;
+	font-size: 15px;
+	color: white;
+}
+.dd{
+	width: 240px;
+	height: 130px;
+	float: left;
+	/* margin-left: 10px; */
+}
+.dd a{
+	width: 90px;
+	height: 32px;
+	/* text-align: center; */
+	line-height: 32px;
+	font-size: 15px;
+	color: white;
+}
+.ee{
+	width: 240px;
+	height: 130px;
+	float: right;
+	/* margin-left: 20px; */
+}
+.ee a{
+	width: 90px;
+	height: 32px;
+	/* text-align: center; */
+	line-height: 32px;
+	font-size: 15px;
+	color: white;
+}
+.end{
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;
+	text-align: center;
+}
+.end a{
+	color:rgb(125,125,125);
+	font-size:13px;
+}
+.ccc{
+	color:rgb(125,125,125);
+}
